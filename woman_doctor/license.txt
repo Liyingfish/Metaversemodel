@@ -1,0 +1,11 @@
+Model Information:
+* title:	Woman Doctor
+* source:	https://sketchfab.com/3d-models/woman-doctor-5c1c74673f1b452f8fea8673d515584b
+* author:	VizLabSA (https://sketchfab.com/VizLabSA)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Woman Doctor" (https://sketchfab.com/3d-models/woman-doctor-5c1c74673f1b452f8fea8673d515584b) by VizLabSA (https://sketchfab.com/VizLabSA) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
